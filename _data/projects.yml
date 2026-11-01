@@ -1,0 +1,9 @@
+# Public repositories of the gander-n8n organization, grouped for the landing page.
+# Each project: name, repo (owner/name), description, language, optional links (label + url).
+
+- group: Tools
+  projects:
+    - name: n8n-workflow-proxy
+      repo: gander-n8n/n8n-workflow-proxy
+      language: JavaScript
+      description: A Cloudflare Worker that acts as a proxy for n8n workflows.

@@ -1,0 +1,15 @@
+title: gander-n8n
+tagline: tools and integrations for n8n by gander
+description: Tools and integrations for n8n, built by gander.
+url: https://gander-n8n.github.io
+baseurl: ""
+owner:
+  name: gander
+  url: https://github.com/gander
+org_url: https://github.com/gander-n8n
+markdown: kramdown
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
